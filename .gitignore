@@ -6,4 +6,10 @@ bin/*
 bin
 *.jar
 *.tar.gz
+/src/com/NoName_hacke_/Artric/sus.java
 
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
