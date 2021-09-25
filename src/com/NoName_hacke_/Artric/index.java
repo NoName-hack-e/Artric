@@ -2,8 +2,7 @@ package com.NoName_hacke_.Artric;
 
 public class index {
     public static void main(String args) {
-	:
-        JDA jda = JDABuilder.createDefault().build();
-
+	sus SUS == new sus();
+        JDA jda = JDABuilder.createDefault(sus.i).build();
     }
 }
